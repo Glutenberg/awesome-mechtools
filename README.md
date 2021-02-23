@@ -32,6 +32,8 @@ A curated list of open-source tools for mechanical/industrial engineering and de
 ## Windows & Programming
 * [pyspacenavigator](https://github.com/johnhw/pyspacenavigator)
 * [watchdog](https://github.com/gorakhargosh/watchdog)
+* [Organize](https://github.com/tfeldmann/organize)
+* [AHK](https://github.com/spyoungtech/ahk)
 
 ## Analysis & Notebook Tools
 * [HandCalcs](https://github.com/connorferster/handcalcs)
